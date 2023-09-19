@@ -2567,7 +2567,7 @@ input, select, textarea {
 					color: rgba(25, 40, 67, 255);
 				}
 
-				
+
 
 /* Image */
 
@@ -3268,8 +3268,8 @@ input, select, textarea {
 		.wrapper.style3 {
 			background-color: #4966a8;
 		}
-		
-		
+
+
 		.wrapper.style4 {
 			background-color: #56627e;
 		}
@@ -3302,7 +3302,7 @@ input, select, textarea {
 		}
 
 		.full-image{
-			width:100%; 
+			width:100%;
 		}
 
 			body.is-ie .wrapper.fullscreen {
@@ -3933,15 +3933,23 @@ input, select, textarea {
 			}
 
 		}
-		
-		
+
+ .divtrialhtm h1{
+  margin: 0 0 0 0;
+}
+
+.divtrialhtm{
+	padding-bottom: 0px;
+	margin-top:20px; 
+}
+
 .overview-video{
-	max-width:640px; 
+	max-width:640px;
 }
 
 .p-code{
 	background-color: #b8b8ce;
 	padding: 10px;
-	color: #162844;	
+	color: #162844;
 	border-radius: 10px;
 }
